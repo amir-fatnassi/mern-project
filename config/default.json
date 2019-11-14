@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://proj:proj123@proj3-tepdq.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "sl_myJwtSecret"
+}
